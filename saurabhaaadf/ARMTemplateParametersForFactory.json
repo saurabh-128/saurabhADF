@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "saurabhaaadf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabaseLS_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabaseSampledbLS_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabasetrialLS_connectionString": {
+			"value": ""
+		},
+		"SqlServerLS_connectionString": {
+			"value": ""
+		},
+		"SqlServerLS_password": {
+			"value": ""
+		},
+		"SqlServernewLS_connectionString": {
+			"value": ""
+		},
+		"SqlServernewLS_password": {
+			"value": ""
+		},
+		"SqlServerLS_properties_typeProperties_userName": {
+			"value": "Saurabh"
+		},
+		"SqlServernewLS_properties_typeProperties_userName": {
+			"value": "Saurabh"
+		}
+	}
+}
