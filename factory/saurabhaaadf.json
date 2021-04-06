@@ -1,0 +1,9 @@
+{
+	"name": "saurabhaaadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1c7bcfd-3c2d-4985-8275-e2626107a3bb",
+		"tenantId": "f1cac18b-1ab5-45a7-8e0d-79cf5fc088f7"
+	}
+}
